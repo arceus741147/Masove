@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309728816354",
+    "project_id": "masove-ceb35",
+    "storage_bucket": "masove-ceb35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309728816354:android:4a21d804b4394bbc1702bb",
+        "android_client_info": {
+          "package_name": "com.example.masove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP5s7bnn9cTExapeAURS_-rG-l0rjdfoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
